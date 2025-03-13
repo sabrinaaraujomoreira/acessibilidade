@@ -1,3 +1,7 @@
     document.addEventListener(DOMContentLoaded, function() {
-        const
+        
+    const aumentaFonteBotao = document.getElementById('aumenta-fonte');
+    const diminuiFonteBotao = document.getElementById('dimunui-fonte');
+
+    let 
     }
