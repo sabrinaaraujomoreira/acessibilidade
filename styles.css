@@ -29,22 +29,19 @@ section {
 }
 
 .inicio-fundo {
-    /* aula 3 */
     background-image: url('img/4965007.jpg');
-    /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
     border-radius: 80px;
     width: 100%;
-    height: 606px;
+    height: 600px;
     padding: 40px;
     margin: 0 auto;
 }
 
-/* posicionamento para a imagem à direita */
 .img-inicio {
     position: absolute;
-    right: 0;
+    right: 3rem;
     top: 18rem;
     width: 45rem;
     height: auto;
