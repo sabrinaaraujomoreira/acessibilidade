@@ -4,7 +4,7 @@
 :root {
     --laranja-claro: #FF862A;
     --alto-contraste-fundo: #000000;
-    --alto-contraste-texto: #ffffff;
+    --alto-contraste-texto: #ffffff36;
     --alto-contraste-link: #ffd700;
 }
 
@@ -79,7 +79,6 @@ section {
     background: url('img/flor.png') top right no-repeat,
         url('img/flor-esquerda.png') bottom left no-repeat;
     background-size: 180px 180px;
-    /* Ajuste o tamanho conforme necessário */
 }
 
 #Ariana Grande .container {
@@ -87,8 +86,7 @@ section {
     align-items: center;
     justify-content: center;
     position: relative;
-    z-index: 1;
-    /* Garante que o conteúdo fica acima das imagens do background */
+    z-index: 1re
 }
 
 
@@ -113,18 +111,14 @@ h2 {
     background-image: url('img/4965007.jpg');
     background-size: cover;
     padding: 4rem 0;
-    /* Espaçamento interno para a seção de contato */
 
 }
 
 .formulario {
     background-color: #ffffff;
     padding: 2rem;
-    /* Espaçamento interno dentro do formulário */
     border-radius: 10px;
-    /* Borda arredondada para o formulário */
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-    /* Sombra suave para destacar o formulário */
     font-weight: bold;
 }
 
